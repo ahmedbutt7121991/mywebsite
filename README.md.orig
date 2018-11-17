@@ -1,0 +1,18 @@
+# mywebsite
+
+hello Ahmed
+
+<<<<<<< Updated upstream
+checking update-readme branch on gitbash
+
+Local Updates
+=======
+Editing readme on example branch
+
+see changes from another branch
+
+checking stashing and comitting
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
